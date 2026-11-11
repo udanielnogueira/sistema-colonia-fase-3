@@ -38,16 +38,6 @@ O programa segue quatro etapas:
 3. Tomada de decisões (`tomar_decisoes`): decide o que fazer com os sistemas da colônia, seguindo as regras abaixo.
 4. Relatório (`main`): reúne tudo e imprime os dados.
 
-### Regras de decisão
-
-| Condição                                                | Resultado                        | Sistemas não essenciais |
-| ------------------------------------------------------- | -------------------------------- | ----------------------- |
-| Reserva abaixo de 20 kWh                                | Alerta crítico: ativar economia  | Desligados              |
-| Reserva abaixo de 50 kWh ou consumo maior que a geração | Atenção: ativar modo de economia | Desligados              |
-| Nenhuma das anteriores                                  | Operação normal                  | Ligados                 |
-
-O **suporte à vida** nunca é desligado, em nenhuma situação.
-
 ## Exemplo de entrada e saída
 
 ### Entrada
