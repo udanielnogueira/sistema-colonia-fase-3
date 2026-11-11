@@ -6,7 +6,7 @@ O sistema prevê quanta energia eólica será gerada de acordo com o vento, soma
 
 ## Como executar
 
-1. Acesse esse link compartilhado: [Sistema Colônia Fase 3](https://colab.research.google.com/drive/1Qsr4rk2PbeUzBZIWz27Ciivgck4Ez3jP);
+1. Acesse esse link compartilhado: <a href="https://colab.research.google.com/drive/1Qsr4rk2PbeUzBZIWz27Ciivgck4Ez3jP" target="_blank">Sistema Colônia Fase 3</a>.
 2. Faça uma cópia para o seu Drive: Arquivo → Salvar uma cópia no Drive.
 3. Execute as células na ordem correta: Ambiente de execução → Executar tudo.
 4. A saída irá aparecer abaixo da última célula com código, a célula que chama a função `main()`.
